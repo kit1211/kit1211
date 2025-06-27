@@ -5,9 +5,9 @@
 
 
 
-- 🌱 I’m currently learning **Nextjs, React, Docker, NodeJs**
+- 🌱 I’m currently learning **web3.0**
 
-- 💬 Ask me about **php, codeigniter3-4, web3.0(TRC20,BEP20)**
+- 💬 Ask me about **php, Typescript, Javascript, ORM, Browser extension, codeigniter3-4, web3.0(TRC20,BEP20)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
