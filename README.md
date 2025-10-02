@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Kit1211;Fullstack+Developer+%26+Cyberpunk+Enthusiast;Building+the+Future+with+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Kit1211;Digital+Architect;" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -13,13 +13,14 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=🌐+Crafting+Digital+Realities;⚡+Fullstack+Developer+from+Thailand;🚀+Web3.0+%26+Blockchain+Explorer;💻+Code+is+my+Art+%26+Passion" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=🌐+Penetrating+Digital+Defenses;⚡+Fullstack+from+Thailand;🚀+Web3.0+%26+Blockchain+Explorer;💻+Code+is+my+Weapon+%26+Passion" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-Online-00FF41?style=for-the-badge&logo=statuspage&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mode-Cyberpunk-FF0080?style=for-the-badge&logo=matrix&logoColor=white" />
-  <img src="https://img.shields.io/badge/Level-Expert-00FFFF?style=for-the-badge&logo=level&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-ONLINE-00FF41?style=for-the-badge&logo=statuspage&logoColor=black" />
+  <img src="https://img.shields.io/badge/Mode-CYBERPUNK-FF0080?style=for-the-badge&logo=matrix&logoColor=black" />
+  <img src="https://img.shields.io/badge/Level-ELITE-00FFFF?style=for-the-badge&logo=level&logoColor=black" />
+  <img src="https://img.shields.io/badge/Security-PENETRATION_TESTING-FF5722?style=for-the-badge&logo=shield&logoColor=black" />
 </div>
 
 ---
@@ -27,7 +28,7 @@
 ## 🔥 Current Mission
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=400&lines=🌱+Mastering+Web3.0+%26+Blockchain;🔮+Exploring+AI+%26+Machine+Learning;⚡+Building+Next-Gen+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=400&lines=🌱+Mastering+Web3.0+%26+Blockchain+Security;🔮+Exploring+AI+%26+Machine+Learning+Attacks;⚡+Building+Next-Gen+Penetration+Tools" alt="Typing SVG" />
 </div>
 
 ---
@@ -35,7 +36,7 @@
 ## 💬 Digital Communication Channels
 
 <div align="center">
-  <p>Ready to discuss: <strong>PHP</strong> | <strong>TypeScript</strong> | <strong>JavaScript</strong> | <strong>ORM</strong> | <strong>Browser Extensions</strong> | <strong>CodeIgniter 3-4</strong> | <strong>Web3.0 (TRC20, BEP20)</strong></p>
+  <p>Ready to discuss: <strong>PHP</strong> | <strong>TypeScript</strong> | <strong>JavaScript</strong> | <strong>ORM</strong> | <strong>Browser Extensions</strong> | <strong>CodeIgniter 3-4</strong> | <strong>Web3.0 (TRC20, BEP20)</strong> | <strong>Penetration Testing</strong> | <strong>Network Security</strong></p>
 </div>
 
 ---
@@ -63,6 +64,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elysia.js-2496ED?style=for-the-badge&logo=bun&logoColor=white" />
   <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
 </div>
 
@@ -82,16 +84,37 @@
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 </div>
 
-### 🔧 Development Tools
+### 🤖 AI & Automation Arsenal
+<div align="center">
+  <img src="https://img.shields.io/badge/Pinecone-430098?style=for-the-badge&logo=pinecone&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-FF6B35?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Langflow-00D4AA?style=for-the-badge&logo=langflow&logoColor=white" />
+</div>
+
+### 🛡️ Network Security & Penetration Testing
+<div align="center">
+  <img src="https://img.shields.io/badge/Frida-000000?style=for-the-badge&logo=frida&logoColor=white" />
+  <img src="https://img.shields.io/badge/Charles_Proxy-FF6B35?style=for-the-badge&logo=charlesproxy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF5722?style=for-the-badge&logo=burpsuite&logoColor=white" />
+</div>
+
+### 🔧 Development Arsenal
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white" />
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
+  <img src="https://img.shields.io/badge/k6-7D4CDB?style=for-the-badge&logo=k6&logoColor=white" />
 </div>
 
 ### 🎨 Creative Suite
 <div align="center">
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 </div>
@@ -117,9 +140,9 @@
 ## 🎯 Mission Status
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=🚀+Building+the+Future+of+Web+Development;💡+Always+Learning+%26+Evolving;🌟+Creating+Digital+Experiences+that+Matter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=🚀+Penetrating+the+Future+of+Web+Security;💡+Always+Hacking+%26+Evolving;🌟+Creating+Digital+Defenses+that+Matter" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Welcome+to+the+Matrix&fontSize=30&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Welcome+to+the+Cyberpunk+Matrix&fontSize=30&fontAlignY=40" />
 </div>
