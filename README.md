@@ -8,12 +8,14 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kit1211&label=Profile%20views&color=00FF41&style=flat-square" alt="Profile views" />
   <img src="https://img.shields.io/badge/Status-ONLINE-00FF41?style=flat-square&logo=statuspage&logoColor=0D1117" />
-  <img src="https://img.shields.io/badge/Mode-CYBERPUNK-FF0080?style=flat-square&logo=matrix&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mode-CYBERPUNK-FF0080?style=flat-square&logo=hackaday&logoColor=white" />
   <img src="https://img.shields.io/badge/Location-Thailand-00FFFF?style=flat-square&logo=googlemaps&logoColor=0D1117" />
 </p>
 
 <!-- About -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=44&section=header&text=About%20Me&fontSize=22&fontColor=00FF41&color=0:0D1117,100:161B22" />
+<p align="center">
+  <img src="https://img.shields.io/badge/About_Me-00FF41?style=for-the-badge&labelColor=161B22" alt="About Me" />
+</p>
 
 <img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
@@ -32,7 +34,9 @@ const kit1211 = {
 <br clear="both"/>
 
 <!-- Tech Stack -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=44&section=header&text=Tech%20Stack&fontSize=22&fontColor=00FFFF&color=0:0D1117,100:161B22" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Tech_Stack-00FFFF?style=for-the-badge&labelColor=161B22" alt="Tech Stack" />
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,php,py,rust,react,nextjs,html,css,bootstrap,nodejs,express,bun,mysql,postgres,mongodb,redis,docker,aws,cloudflare,git,linux,postman,prisma&theme=dark&perline=11" alt="Tech Stack" />
@@ -42,7 +46,7 @@ const kit1211 = {
   <img src="https://img.shields.io/badge/Rust-Backend-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
   <img src="https://img.shields.io/badge/Elysia.js-2496ED?style=for-the-badge&logo=bun&logoColor=white" />
-  <img src="https://img.shields.io/badge/TigerBeetle-Financial_DB-F5A623?style=for-the-badge&logoColor=0D1117" />
+  <img src="https://img.shields.io/badge/TigerBeetle-Financial_DB-F5A623?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
@@ -51,10 +55,12 @@ const kit1211 = {
 </p>
 
 <!-- AI -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=44&section=header&text=AI%20%26%20Automation&fontSize=22&fontColor=FF0080&color=0:0D1117,100:161B22" />
+<p align="center">
+  <img src="https://img.shields.io/badge/AI_%26_Automation-FF0080?style=for-the-badge&labelColor=161B22" alt="AI & Automation" />
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Cursor-AI_IDE-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-AI_IDE-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Wiki-Knowledge_Base-00FF41?style=for-the-badge&logo=gitbook&logoColor=0D1117" />
   <img src="https://img.shields.io/badge/Agent_Skills-MCP-FF0080?style=for-the-badge&logo=openai&logoColor=white" />
@@ -69,13 +75,15 @@ const kit1211 = {
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Pinecone-Vector_DB-430098?style=for-the-badge&logo=pinecone&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinecone-Vector_DB-430098?style=for-the-badge" />
   <img src="https://img.shields.io/badge/n8n-Automation-FF6B35?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Langflow-LLM_Flow-00D4AA?style=for-the-badge&logo=langflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Langflow-LLM_Flow-00D4AA?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 <!-- IoT -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=44&section=header&text=IoT%20%26%20Embedded&fontSize=22&fontColor=00FF41&color=0:0D1117,100:161B22" />
+<p align="center">
+  <img src="https://img.shields.io/badge/IoT_%26_Embedded-00FF41?style=for-the-badge&labelColor=161B22" alt="IoT & Embedded" />
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark&perline=8" alt="IoT Hardware" />
@@ -95,13 +103,15 @@ const kit1211 = {
 </p>
 
 <!-- Security -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=44&section=header&text=Security%20%26%20Pentest&fontSize=22&fontColor=FF5722&color=0:0D1117,100:161B22" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Security_%26_Pentest-FF5722?style=for-the-badge&labelColor=161B22" alt="Security & Pentest" />
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frida-Dynamic_Instrumentation-000000?style=for-the-badge&logo=frida&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frida-Dynamic_Instrumentation-000000?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp_Suite-Web_Security-FF5722?style=for-the-badge&logo=burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-Network_Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Charles_Proxy-Traffic_Debug-FF6B35?style=for-the-badge&logo=charlesproxy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Charles_Proxy-Traffic_Debug-FF6B35?style=for-the-badge&logo=apache&logoColor=white" />
 </p>
 
 <p align="center">
@@ -110,7 +120,9 @@ const kit1211 = {
 </p>
 
 <!-- Stats -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=44&section=header&text=GitHub%20Analytics&fontSize=22&fontColor=00FFFF&color=0:0D1117,100:161B22" />
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub_Analytics-00FFFF?style=for-the-badge&labelColor=161B22" alt="GitHub Analytics" />
+</p>
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=kit1211&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&icon_color=00FFFF&include_all_commits=true&count_private=true" alt="GitHub Stats" />
@@ -126,7 +138,9 @@ const kit1211 = {
 </p>
 
 <!-- Mission -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=44&section=header&text=Current%20Mission&fontSize=22&fontColor=00FF41&color=0:0D1117,100:161B22" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Current_Mission-00FF41?style=for-the-badge&labelColor=161B22" alt="Current Mission" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=1200&color=00FF41&center=true&vCenter=true&width=620&lines=Mastering+Web3+%26+Blockchain+Security;Building+AI-Powered+Dev+Workflows;Exploring+IoT+%26+Embedded+Systems;Creating+Next-Gen+Penetration+Tools" alt="Current Mission" />
@@ -137,5 +151,5 @@ const kit1211 = {
 
 <p align="center">
   <img src="https://img.shields.io/badge/Always_Learning-00FF41?style=for-the-badge&logo=google-scholar&logoColor=0D1117" />
-  <img src="https://img.shields.io/badge/Open_to_Collaborate-00FFFF?style=for-the-badge&logo=handshake&logoColor=0D1117" />
+  <img src="https://img.shields.io/badge/Open_to_Collaborate-00FFFF?style=for-the-badge&logo=github&logoColor=0D1117" />
 </p>
