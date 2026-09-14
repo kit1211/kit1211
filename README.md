@@ -35,12 +35,14 @@ const kit1211 = {
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=44&section=header&text=Tech%20Stack&fontSize=22&fontColor=00FFFF&color=0:0D1117,100:161B22" />
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,php,py,react,nextjs,html,css,bootstrap,nodejs,express,bun,mysql,postgres,mongodb,redis,docker,aws,cloudflare,git,linux,postman,prisma&theme=dark&perline=11" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,php,py,rust,react,nextjs,html,css,bootstrap,nodejs,express,bun,mysql,postgres,mongodb,redis,docker,aws,cloudflare,git,linux,postman,prisma&theme=dark&perline=11" alt="Tech Stack" />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Rust-Backend-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
   <img src="https://img.shields.io/badge/Elysia.js-2496ED?style=for-the-badge&logo=bun&logoColor=white" />
+  <img src="https://img.shields.io/badge/TigerBeetle-Financial_DB-F5A623?style=for-the-badge&logoColor=0D1117" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
