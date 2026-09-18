@@ -12,6 +12,28 @@
   <img src="https://img.shields.io/badge/Location-Thailand-00FFFF?style=flat-square&logo=googlemaps&logoColor=0D1117" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/kit1211"><img src="https://img.shields.io/badge/GitHub-kit1211-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/kit1211?tab=repositories"><img src="https://img.shields.io/badge/Repos-84+-00FF41?style=for-the-badge&logo=git&logoColor=0D1117" alt="Repositories" /></a>
+  <a href="https://github.com/kit1211?tab=achievements"><img src="https://img.shields.io/badge/Achievements-View_All-FF0080?style=for-the-badge&logo=trophy&logoColor=white" alt="Achievements" /></a>
+</p>
+
+<!-- Achievements -->
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub_Achievements-FF0080?style=for-the-badge&labelColor=161B22" alt="GitHub Achievements" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-silver.png" width="72" alt="Pair Extraordinaire x3" title="Pair Extraordinaire x3 — Co-authored 24+ merged PRs" />
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/arctic-code-vault-contributor-silver.png" width="72" alt="Arctic Code Vault x3" title="Arctic Code Vault Contributor x3 — 2020 Archive Program" />
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="72" alt="Quickdraw" title="Quickdraw — Closed issue/PR within 5 minutes" />
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="72" alt="YOLO" title="YOLO — Merged PR without code review" />
+</p>
+
+<p align="center">
+  <sub><a href="https://github.com/kit1211?tab=achievements">ดู Achievements ทั้งหมดบนโปรไฟล์ →</a></sub>
+</p>
+
 <!-- About -->
 <p align="center">
   <img src="https://img.shields.io/badge/About_Me-00FF41?style=for-the-badge&labelColor=161B22" alt="About Me" />
@@ -146,10 +168,27 @@ const kit1211 = {
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=1200&color=00FF41&center=true&vCenter=true&width=620&lines=Mastering+Web3+%26+Blockchain+Security;Building+AI-Powered+Dev+Workflows;Exploring+IoT+%26+Embedded+Systems;Creating+Next-Gen+Penetration+Tools" alt="Current Mission" />
 </p>
 
+<!-- Achievement Quest -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Achievement_Quest-00FF41?style=for-the-badge&labelColor=161B22" alt="Achievement Quest" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🦈_Pull_Shark-2_merged_PRs-00FFFF?style=for-the-badge&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/🧠_Galaxy_Brain-2_accepted_answers-FF0080?style=for-the-badge&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/⭐_Starstruck-16_stars-FFD700?style=for-the-badge&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/💝_Public_Sponsor-$1/month-FF69B4?style=for-the-badge&labelColor=161B22" />
+</p>
+
+<p align="center">
+  <sub>⭐ ช่วย star repo นี้เพื่อไล่ <b>Starstruck</b> &nbsp;·&nbsp; 💬 ถาม-ตอบใน <a href="https://github.com/kit1211/kit1211/discussions">Discussions</a> เพื่อไล่ <b>Galaxy Brain</b></sub>
+</p>
+
 <!-- Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&duration=6&stroke=00FF41&strokeWidth=1&colors=FF0080,00FFFF,00FF41&section=footer&text=Welcome+to+the+Matrix&fontSize=34&fontColor=ffffff&fontAlignY=38" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Always_Learning-00FF41?style=for-the-badge&logo=google-scholar&logoColor=0D1117" />
   <img src="https://img.shields.io/badge/Open_to_Collaborate-00FFFF?style=for-the-badge&logo=github&logoColor=0D1117" />
+  <a href="https://github.com/kit1211/kit1211/stargazers"><img src="https://img.shields.io/github/stars/kit1211/kit1211?style=for-the-badge&logo=github&label=Stars&color=FFD700&labelColor=161B22" alt="Stars" /></a>
 </p>
