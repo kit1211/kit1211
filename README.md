@@ -159,6 +159,21 @@ const kit1211 = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kit1211&theme=chartreuse-dark&hide_border=true&area=true&bg_color=0D1117&color=00FF41&line=00FFFF&point=FF0080" alt="Activity Graph" />
 </p>
 
+<!-- Pinned Repos -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Featured_Repos-00FFFF?style=for-the-badge&labelColor=161B22" alt="Featured Repos" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/kit1211/pi-queue"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kit1211&repo=pi-queue&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&icon_color=00FFFF" alt="pi-queue" /></a>
+  <a href="https://github.com/kit1211/queue-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kit1211&repo=queue-system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&icon_color=00FFFF" alt="queue-system" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/kit1211/telecast"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kit1211&repo=telecast&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&icon_color=00FFFF" alt="telecast" /></a>
+  <a href="https://github.com/kit1211/kit1211"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kit1211&repo=kit1211&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&icon_color=00FFFF" alt="kit1211" /></a>
+</p>
+
 <!-- Mission -->
 <p align="center">
   <img src="https://img.shields.io/badge/Current_Mission-00FF41?style=for-the-badge&labelColor=161B22" alt="Current Mission" />
